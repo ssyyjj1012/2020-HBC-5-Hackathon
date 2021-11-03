@@ -22,4 +22,13 @@
 
      테스트 데이터 셋을 대상으로 최종 정확도를 측정함
      
+ 
      
+![image](https://user-images.githubusercontent.com/52689953/140000298-4d67144f-9c62-4b16-8aea-3838844e1523.png)
+
+![image](https://user-images.githubusercontent.com/52689953/140000314-6d978b11-b0a4-410d-a409-fdecf705f46e.png)
+
+![image](https://user-images.githubusercontent.com/52689953/140000321-69eed96a-34e2-426b-8adb-300a7e62d475.png)
+
+![image](https://user-images.githubusercontent.com/52689953/140000329-29f6b700-cafd-4fa0-9f0a-35bddda6781d.png)
+
